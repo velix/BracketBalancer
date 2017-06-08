@@ -1,0 +1,1 @@
+This is a simple bracket balancer checker. It receives as input an arbitarily long string and checks if any brackets exists in the string, and if so, if they are balanced.
